@@ -57,3 +57,9 @@ tBodyGyroMean
 tBodyGyroJerkMean
 
 The complete list of variables of each feature vector is available in 'features.txt'
+
+
+# added to the original code book
+Data: dataset merged by test and training dataset
+SubData: Subset of dataset with only mean and standard diviation data
+SubData2: Appropriately labels the data set with descriptive activity names. 
