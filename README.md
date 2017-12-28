@@ -23,6 +23,6 @@ Good luck!
 
 # list of files in this repo
 1, the tidy data set: tidydata
-2, R scripts: project
+2, R scripts: run_analysis
 3, the code book: features_info
 4, README file
