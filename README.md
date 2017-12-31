@@ -26,3 +26,5 @@ Good luck!
 2, R scripts: run_analysis
 3, the code book: features_info
 4, README file
+
+# If you plan to run my code, please notice that a folder named crsr need to be created under the UCI HAR Dataset folder for the code to run properly.Sorry for the inconvenience.
